@@ -120,14 +120,14 @@ margin-top: 30px;
     margin-left: 40px;
     gap: 10px;
     margin-top: 1%;
-    border: 2px solid blue;
+   
     height: 350px;
     display: flex;
 
 }
 .div1{
     width: 22%;
-    border: 1px solid red;
+   
     height: 350px;
     margin-left: 50px;
     display: flex;
@@ -139,7 +139,7 @@ margin-top: 30px;
 }
 .div2{
     width: 22%;
-    border: 1px solid rgb(60, 231, 8);
+   
     height: 350px; 
     background-color: #f3e3bf
 }
@@ -155,7 +155,7 @@ margin-top: 30px;
 }
 .div3{
      width: 50%;
-    border: 1px solid rgb(242, 255, 0);
+   
     height: 350px;
 }
 hr{
@@ -187,20 +187,20 @@ h1{
 }
 .arrival{
     width: 90%;
-    border: 2px solid red;
+  
     margin-left: 80px;
     height: 700px;
 }
 .arrival1{
     display: flex;
     width: 100%;
-    border: 1px solid rgb(69, 7, 239);
+    
     height: 350px;
     gap: 10px;
 }
 .arr{
     width: 25%;
-    border: 1px solid goldenrod;
+    
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 .arr1{
@@ -247,7 +247,7 @@ text-align: center;
 .trend{
     display: flex;
     width: 90%;
-    border: 2px solid rgb(99, 13, 229);
+   
     height: 350px;
     margin-left: 80px;
  
