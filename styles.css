@@ -20,11 +20,20 @@ ul {
  
  
 }
+
 .nav-link1{
     margin-left: 50px;
     background-color: #dd9a05;
-    width: 30px;
+     border-radius: 10%;
+    color: white;
 }
+.download{
+    height: 20px;
+    text-align: center;
+    margin-left: 20px;
+    
+}
+
 
 .nav-list {
     display: flex;
@@ -66,7 +75,7 @@ margin-top: 30px;
 }
 .container1{
     width: 40%;
-    border: 2px solid red;
+    
     background-color: rgba(243,192,191,255);
     margin-left: -5px;
 }
@@ -92,7 +101,7 @@ margin-top: 30px;
     height: 40%;
     margin-top: 27px;
     margin-left: 0px;
-    border:2px solid blue;
+    
     text-align: center;
     background-color: #f3e3bf;
     gap: 10px;
@@ -344,6 +353,8 @@ h3{
     background-color: #976e36;
     height: 25px;
     margin-top: -1%;
+    width: 90%;
+    margin-left:80px;
 }
 .fa-facebook {
   background: #3B5998;
@@ -362,3 +373,52 @@ h3{
   height: 14px;
 
 }
+.trending-bag2{
+    margin-top: 50px;
+}
+.black{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  .content {
+        max-width: 90%;
+        text-align: left;
+        margin: auto;
+      }
+      .slider2 {
+        width: 90%;
+        height: 550px;
+        background-color: white;
+        margin: auto;
+        background-image: url("/assest/Layer6.png");
+        margin-top: 10px;
+       
+      }
+      .slider-middle{
+       box-shadow: rgba(39, 36, 38, 0.4) -5px 5px, rgba(46, 44, 45, 0.3) -10px 10px, rgba(43, 39, 41, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+        width: 55%;
+        height: 45%;
+        margin-top: 150px;
+        margin-left: 320px;
+        background-color: #eeeeee;
+      }
+      .slider-images1{
+        border-radius: 100%;
+        width: 80px;
+        height: 80px;
+        margin-left: 40%;
+      }
+      .slider-para{
+        margin-left: 25px;
+
+      }
+     
+   .name{
+    color: black;
+    margin-left: 36%;
+   }  
+   .market-dev{
+    margin-left: 35%;
+    color: red;
+   }
+
