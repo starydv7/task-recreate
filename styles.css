@@ -225,3 +225,140 @@ text-align: center;
 .image-jute-bag{
     margin-left: 110px;
 }
+.most-sell{
+    display: flex;
+    width: 90%;
+   
+    height: 350px;
+    margin-left: 80px;
+    gap: 1%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.most-sell-div{
+    width: 24%;
+    
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    
+}
+.bag4{
+    margin-top: -30px;
+}
+.trend{
+    display: flex;
+    width: 90%;
+    border: 2px solid rgb(99, 13, 229);
+    height: 350px;
+    margin-left: 80px;
+ 
+    margin-top: 2%;
+}
+.trending{
+    display: flex;
+    width: 33%;
+    background-color: #f2f2f2;
+    
+}
+.welcome1{
+    color: #1a815e;
+    font-size: 20px;
+    font-weight: 800;
+}
+.trend1{
+    color:black;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 70px;
+    font-weight: 600;
+}
+.trend-jute{
+    font-size: 22px;
+    font-weight: 400;
+}
+#footer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    width: 90%;
+    background-color: #bda425;
+    height: auto;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+#footerimg{
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#para10{
+    color: white;
+    margin-left: 50px;
+}
+#para11{
+    color: white;
+margin-left: 50px;
+margin-top: -10px;
+}
+#para12{
+color: white;
+margin-left: 50px;
+margin-top: -15px;
+}
+#footer2{
+    margin-left: 200px;
+    margin-top: 25px;
+}
+#para13{
+    color: white;
+    font-size: small;
+    
+}
+#para14{
+    color: white;
+    font-size: small;
+}
+#footer3{
+    margin-left: 250px;
+    margin-top: 25px;
+}
+h3{
+    color: white;
+}
+#btn-tag11{
+    margin-left: 5px;
+}
+#para1{
+    padding: 12%;
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#lastpara{
+    align-items: center;
+    justify-content: center;
+    margin-left: 37%;
+    color: white;
+
+    
+}
+#footerlast{
+    background-color: #976e36;
+    height: 25px;
+    margin-top: -1%;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  width: 15px;
+  /* margin-left: -50px;
+  margin-top: -30px; */
+  height: 14px;
+}
+.fa-instagram {
+  background: #55e122;
+  color: white;
+  width: 15px;
+  /* margin-left: 500px; */
+  margin-top: -30px;
+  height: 14px;
+
+}
